@@ -311,15 +311,19 @@ button:hover{
   background:#666;
 }
 
-footer {
-  background-color: #000000;
-  color: #FFFFFF;
-  margin: 0;
+footer{
+  margin:0;
+  padding:16px 0;
+  background:#000;
+  color:#fff;
+  width:100%;
+  box-sizing:border-box;
 }
 
-.copy {
-  font-size: 12px;
-  opacity: 0.8;
+.copy{
+  margin:0;
+  font-size:12px;
+  opacity:0.8;
 }
 
 @keyframes spin{
