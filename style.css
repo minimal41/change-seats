@@ -308,6 +308,16 @@ button:hover{
   background:#666;
 }
 
+footer {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+.copy {
+  font-size: 12px;
+  opacity: 0.8;
+}
+
 @keyframes spin{
 
   from{
